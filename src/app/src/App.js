@@ -13,8 +13,6 @@ class App extends Component {
           <div style={{paddingTop: 20}} className="container-fluid mw-100">
             <Form />
           </div>
-
-          
       </div>
     );
   }
