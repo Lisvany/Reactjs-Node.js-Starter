@@ -1,0 +1,1 @@
+alert('vuejs go here')
